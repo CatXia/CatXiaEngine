@@ -1,0 +1,41 @@
+Cocos2d Creator 3D authors
+
+(Ordered by join time)
+
+Contributors:
+
+    
+
+Core Engine Developers:
+
+    Yaqiong Liu (@JoneLau)
+
+    Yunxiao Wu (@YunHsiao)
+
+    Xuguang Zhu (@zxg0622)
+
+    Nan Li (@shrinktofit)
+
+    Huabin LING (@pandamicro)
+
+    Jiawei Guo (@jareguo)
+
+    Hao Wang (@holycanvas)
+
+    Weiliang Wang (@jerrywwl) - Leader
+
+    Sizhong Wang (@MSoft1115)
+
+    Jiaxin Lai (@JayceLai)
+
+    Jianing Wang (@LinYunMo)
+
+Retired Engine Developers
+
+    Johnny Wu (@jwu)
+
+    Huabing Xu (@dabingnn)
+
+    Yexin Dong
+
+Thanks to all developers who report & trace bugs, discuss the engine usage in forum!
