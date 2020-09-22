@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "ratio": "cpp",
+        "chrono": "cpp"
+    }
+}
